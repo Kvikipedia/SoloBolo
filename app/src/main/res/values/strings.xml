@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SOLO BOLO</string>
+    <string name="app_description">Learning made simple!</string>
+    <string name="tab_text_1">Sign in</string>
+    <string name="tab_text_2">Sign Up</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="name_error">Please enter your name</string>
+    <string name="phone_error">Please enter your phone number</string>
+    <string name="email_error">Please enter your email address</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_email_taken">This email address is already in use</string>
+    <string name="password_error">Please enter a password</string>
+    <string name="error_invalid_password">Please enter a minimum password of 6 characters</string>
+    <string name="comment_error">Please leave a comment</string>
+    <string name="category_phrases">Phrases</string>
+    <string name="category_colors">Colors</string>
+    <string name="category_numbers">Numbers</string>
+    <string name="category_family">Family Members</string>
+    <string name="input_review">Leave a comment…</string>
+    <string name="confirm_review">Confirm</string>
+    <string name="cancel_review">Cancel</string>
+    <string name="review_pic">Reviews</string>
+    <string name="review_name">Reviews</string>
+</resources>
